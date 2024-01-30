@@ -1,0 +1,42 @@
+[
+    {
+      "_id": "64c629f0205b1ee937b522be",
+      "user": "64c08c8a77614e5e0fe5771e",
+      "teamId": "289",
+      "teamName": "Vissel Kobe",
+      "logoUrl": "https://media-2.api-sports.io/football/teams/289.png",
+      "__v": 0
+    },
+    {
+      "_id": "64c629f6205b1ee937b522c2",
+      "user": "64c08c8a77614e5e0fe5771e",
+      "teamId": "296",
+      "teamName": "Yokohama F. Marinos",
+      "logoUrl": "https://media-3.api-sports.io/football/teams/296.png",
+      "__v": 0
+    },
+    {
+      "_id": "64c62a14205b1ee937b522c8",
+      "user": "64c08c8a77614e5e0fe5771e",
+      "teamId": "287",
+      "teamName": "Urawa",
+      "logoUrl": "https://media-1.api-sports.io/football/teams/287.png",
+      "__v": 0
+    },
+    {
+      "_id": "64c62a22205b1ee937b522cd",
+      "user": "64c08c8a77614e5e0fe5771e",
+      "teamId": "291",
+      "teamName": "Cerezo Osaka",
+      "logoUrl": "https://media-1.api-sports.io/football/teams/291.png",
+      "__v": 0
+    },
+    {
+      "_id": "64c62a27205b1ee937b522d1",
+      "user": "64c08c8a77614e5e0fe5771e",
+      "teamId": "282",
+      "teamName": "Sanfrecce Hiroshima",
+      "logoUrl": "https://media-1.api-sports.io/football/teams/282.png",
+      "__v": 0
+    }
+  ]

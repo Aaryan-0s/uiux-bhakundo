@@ -1,0 +1,23 @@
+[
+    {
+      "id": 25330,
+      "name": "Y. Osako",
+      "team": "Vissel Kobe",
+      "teamPicture": "https://media-3.api-sports.io/football/teams/289.png",
+      "goals": 16,
+      "passes": 540,
+      "games": 21,
+      "picture": "https://media-1.api-sports.io/football/players/25330.png"
+    },
+    {
+      "id": 32999,
+      "name": "Anderson Lopes",
+      "team": "Yokohama F. Marinos",
+      "teamPicture": "https://media-2.api-sports.io/football/teams/296.png",
+      "goals": 15,
+      "passes": 431,
+      "games": 21,
+      "picture": "https://media-2.api-sports.io/football/players/32999.png"
+    }
+
+  ]
